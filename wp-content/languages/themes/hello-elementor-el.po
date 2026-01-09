@@ -1,0 +1,367 @@
+# Translation of Themes - Hello Elementor in Greek
+# This file is distributed under the same license as the Themes - Hello Elementor package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-01-08 08:50:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: el_GR\n"
+"Project-Id-Version: Themes - Hello Elementor\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Hello Elementor is a lightweight and minimalist WordPress theme that was built specifically to work seamlessly with the Elementor site builder plugin. The theme is free, open-source, and designed for users who want a flexible, easy-to-use, and customizable website. The theme, which is optimized for performance, provides a solid foundation for users to build their own unique designs using the Elementor drag-and-drop site builder. Its simplicity and flexibility make it a great choice for both beginners and experienced Web Creators."
+msgstr "Το Hello Elementor είναι ένα ελαφρύ και μινιμαλιστικό θέμα WordPress που δημιουργήθηκε ειδικά για να λειτουργεί άψογα με το πρόσθετο Elementor site builder. Το θέμα είναι δωρεάν, ανοιχτού κώδικα και σχεδιασμένο για χρήστες που θέλουν έναν ευέλικτο, εύχρηστο και προσαρμόσιμο ιστότοπο. Το θέμα, το οποίο είναι βελτιστοποιημένο για απόδοση, παρέχει μια σταθερή βάση για τους χρήστες να δημιουργήσουν τα δικά τους μοναδικά σχέδια χρησιμοποιώντας το εργαλείο drag-and-drop του Elementor. Η απλότητα και η ευελιξία του το καθιστούν εξαιρετική επιλογή τόσο για αρχάριους όσο και για έμπειρους Δημιουργούς Ιστότοπων."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Hello Elementor"
+msgstr "Hello Elementor"
+
+#: includes/settings/settings-footer.php:473
+#: includes/settings/settings-header.php:475
+msgid "Transition Duration"
+msgstr "Διάρκεια Μετάβασης"
+
+#: includes/settings/settings-footer.php:392
+#: includes/settings/settings-footer.php:549
+#: includes/settings/settings-footer.php:639
+#: includes/settings/settings-footer.php:704
+#: includes/settings/settings-header.php:394
+#: includes/settings/settings-header.php:558
+#: includes/settings/settings-header.php:736
+msgid "Text Shadow"
+msgstr "Σκιά κειμένου"
+
+#: includes/settings/settings-footer.php:669
+msgid "Text"
+msgstr "Κείμενο"
+
+#: includes/settings/settings-footer.php:419
+#: includes/settings/settings-header.php:421
+msgid "Normal"
+msgstr "Κανονικός"
+
+#: includes/settings/settings-footer.php:447
+#: includes/settings/settings-header.php:449
+msgid "Hover"
+msgstr "Αιώρηση"
+
+#: template-parts/dynamic-header.php:53 template-parts/header.php:43
+msgid "Main menu"
+msgstr "Κύριο μενού"
+
+#. translators: %s: HTML entity for arrow character.
+#: template-parts/archive.php:54 template-parts/search.php:60
+msgid "Next %s"
+msgstr "Επόμενο %s"
+
+#: template-parts/dynamic-header.php:66
+msgid "Mobile menu"
+msgstr "Μενού κινητού"
+
+#. translators: %s: HTML entity for arrow character.
+#: template-parts/archive.php:50 template-parts/search.php:56
+msgid "%s Previous"
+msgstr "%s Προηγούμενο"
+
+#: includes/customizer-functions.php:62
+#: includes/settings/settings-footer.php:742
+#: includes/settings/settings-header.php:775
+#: modules/admin-home/rest/promotions.php:27
+msgid "Upgrade Now"
+msgstr "Αναβαθμίστε τώρα"
+
+#: template-parts/dynamic-footer.php:47 template-parts/footer.php:20
+msgid "Footer menu"
+msgstr "Μενού υποσέλιδου"
+
+#: includes/settings/settings-footer.php:155
+#: includes/settings/settings-header.php:140
+msgid "Below"
+msgstr "Κάτω"
+
+#: includes/settings/settings-footer.php:151
+#: includes/settings/settings-header.php:136
+msgid "Before"
+msgstr "Πριν"
+
+#: includes/settings/settings-footer.php:159
+#: includes/settings/settings-header.php:144
+msgid "After"
+msgstr "Μετά"
+
+#: includes/settings/settings-footer.php:738
+#: includes/settings/settings-header.php:771
+msgid "Get Elementor Pro"
+msgstr "Απόκτησε το Elementor Pro"
+
+#: includes/customizer/customizer-action-links.php:47
+#: includes/customizer/customizer-action-links.php:66
+#: includes/customizer/customizer-action-links.php:76
+#: includes/customizer/customizer-action-links.php:86
+msgid "Elementor"
+msgstr "Elementor"
+
+#: includes/elementor-functions.php:222
+msgid "Learn More"
+msgstr "Μάθετε Περισσότερα"
+
+#: includes/customizer-functions.php:17 includes/elementor-functions.php:216
+msgid "Header & Footer"
+msgstr "Κεφαλίδα & Υποσέλιδο"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Μετάβαση στο περιεχόμενο"
+
+#: includes/settings/settings-footer.php:211
+#: includes/settings/settings-header.php:196
+msgid "Width"
+msgstr "Πλάτος"
+
+#: includes/settings/settings-footer.php:379
+#: includes/settings/settings-footer.php:537
+#: includes/settings/settings-footer.php:630
+#: includes/settings/settings-footer.php:692
+#: includes/settings/settings-header.php:381
+#: includes/settings/settings-header.php:546
+#: includes/settings/settings-header.php:724
+msgid "Typography"
+msgstr "Τυπογραφία"
+
+#: includes/settings/settings-header.php:695
+msgid "Toggle Color"
+msgstr "Εναλλαγή χρώματος "
+
+#: includes/settings/settings-footer.php:342
+#: includes/settings/settings-header.php:344
+msgid "Title"
+msgstr "Τίτλος"
+
+#: includes/settings/settings-footer.php:430
+#: includes/settings/settings-footer.php:458
+#: includes/settings/settings-footer.php:522
+#: includes/settings/settings-footer.php:677
+#: includes/settings/settings-header.php:432
+#: includes/settings/settings-header.php:460
+#: includes/settings/settings-header.php:531
+msgid "Text Color"
+msgstr "Χρώμα κειμένου"
+
+#: includes/settings/settings-footer.php:66
+#: includes/settings/settings-footer.php:495
+#: includes/settings/settings-header.php:66
+#: includes/settings/settings-header.php:497
+msgid "Tagline"
+msgstr "Υπότιτλος"
+
+#: includes/settings/settings-footer.php:54
+#: includes/settings/settings-footer.php:291
+#: includes/settings/settings-header.php:55
+#: includes/settings/settings-header.php:286
+#: modules/admin-home/rest/admin-config.php:233
+msgid "Site Logo"
+msgstr "Λογότυπο Ιστότοπου"
+
+#: includes/settings/settings-footer.php:56
+#: includes/settings/settings-footer.php:68
+#: includes/settings/settings-footer.php:80
+#: includes/settings/settings-footer.php:92
+#: includes/settings/settings-header.php:57
+#: includes/settings/settings-header.php:68
+#: includes/settings/settings-header.php:79
+msgid "Show"
+msgstr "Προβολή"
+
+#: includes/settings/settings-header.php:662
+msgid "None"
+msgstr "Καμία"
+
+#: includes/settings/settings-header.php:634
+msgid "Menu Layout"
+msgstr "Διάταξη μενού"
+
+#: includes/settings/settings-footer.php:78
+#: includes/settings/settings-footer.php:563
+#: includes/settings/settings-footer.php:608
+#: includes/settings/settings-header.php:77
+#: includes/settings/settings-header.php:572
+#: includes/settings/settings-header.php:624
+msgid "Menu"
+msgstr "Μενού"
+
+#: includes/settings/settings-footer.php:352
+#: includes/settings/settings-header.php:354
+msgid "Logo Width"
+msgstr "Πλάτος Λογότυπου"
+
+#: includes/settings/settings-footer.php:341
+#: includes/settings/settings-header.php:343
+msgid "Logo"
+msgstr "Λογότυπο"
+
+#: includes/settings/settings-footer.php:122
+#: includes/settings/settings-header.php:107
+msgid "Layout"
+msgstr "Διαρρύθμιση"
+
+#: includes/settings/settings-header.php:638
+msgid "Horizontal"
+msgstr "Οριζόντια"
+
+#: includes/settings/settings-footer.php:57
+#: includes/settings/settings-footer.php:69
+#: includes/settings/settings-footer.php:81
+#: includes/settings/settings-footer.php:93
+#: includes/settings/settings-header.php:58
+#: includes/settings/settings-header.php:69
+#: includes/settings/settings-header.php:80
+msgid "Hide"
+msgstr "Απόκρυψη"
+
+#: functions.php:42 includes/settings/settings-header.php:47
+#: modules/admin-home/rest/admin-config.php:143
+msgid "Header"
+msgstr "Κεφαλίδα"
+
+#: includes/settings/settings-footer.php:214
+#: includes/settings/settings-header.php:199
+msgid "Full Width"
+msgstr "Πλήρες πλάτος"
+
+#: functions.php:43 includes/settings/settings-footer.php:46
+#: modules/admin-home/rest/admin-config.php:150
+msgid "Footer"
+msgstr "Υποσέλιδο"
+
+#: includes/settings/settings-header.php:639
+msgid "Dropdown"
+msgstr "Πτυσσόμενο μενού"
+
+#: includes/settings/settings-footer.php:133
+#: includes/settings/settings-header.php:118
+msgid "Default"
+msgstr "Προεπιλεγμένη"
+
+#: includes/settings/settings-footer.php:90
+#: includes/settings/settings-footer.php:651
+msgid "Copyright"
+msgstr "Πνευματικά Δικαιώματα"
+
+#: includes/settings/settings-footer.php:226
+#: includes/settings/settings-header.php:211
+msgid "Content Width"
+msgstr "Πλάτος περιεχομένου"
+
+#: includes/settings/settings-footer.php:618
+#: includes/settings/settings-header.php:681
+msgid "Color"
+msgstr "Χρώμα"
+
+#: includes/settings/settings-footer.php:129
+#: includes/settings/settings-header.php:114
+msgid "Centered"
+msgstr "Κεντραρισμένο"
+
+#: includes/settings/settings-footer.php:213
+#: includes/settings/settings-header.php:198
+msgid "Boxed"
+msgstr "Με πλαίσιο"
+
+#: includes/settings/settings-footer.php:278
+#: includes/settings/settings-header.php:273
+msgid "Background"
+msgstr "Φόντο"
+
+#: includes/settings/settings-footer.php:572
+#: includes/settings/settings-header.php:588
+msgid "— Select a Menu —"
+msgstr "— Επιλογή μενού —"
+
+#: includes/settings/settings-footer.php:670
+msgid "All rights reserved"
+msgstr "Με επιφύλαξη παντός δικαιώματος"
+
+#: includes/settings/settings-footer.php:337
+#: includes/settings/settings-header.php:339
+msgid "Type"
+msgstr "Τύπος"
+
+#: modules/admin-home/rest/admin-config.php:278
+msgid "Thanks for installing the Hello Theme!"
+msgstr "Ευχαριστούμε που εγκαταστήσατε το Θέμα Hello!"
+
+#: includes/customizer/customizer-action-links.php:48
+#: includes/customizer/customizer-action-links.php:50
+#: modules/admin-home/rest/admin-config.php:274
+msgid "Install Elementor"
+msgstr "Εγκατάσταση του Elementor"
+
+#: includes/customizer/customizer-action-links.php:67
+#: includes/customizer/customizer-action-links.php:69
+#: modules/admin-home/rest/admin-config.php:272
+msgid "Activate Elementor"
+msgstr "Ενεργοποίηση του Elementor"
+
+#: modules/admin-home/components/admin-menu-controller.php:32
+#: modules/admin-home/components/admin-menu-controller.php:33
+#: template-parts/dynamic-footer.php:33 template-parts/dynamic-header.php:39
+#: template-parts/header.php:30
+msgid "Home"
+msgstr "Αρχική"
+
+#: template-parts/search.php:17
+msgid "Search results for: "
+msgstr "Αποτελέσματα αναζήτησης:"
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "One Response"
+msgstr "Μία Απάντηση"
+
+#: template-parts/search.php:43
+msgid "It seems we can't find what you're looking for."
+msgstr "Φαίνεται ότι δεν μπορούμε να βρούμε αυτό που ψάχνετε."
+
+#: template-parts/single.php:30
+msgid "Tagged "
+msgstr "Ετικετοποιημένο"
+
+#: template-parts/404.php:21
+msgid "It looks like nothing was found at this location."
+msgstr "Φαίνεται ότι δεν βρέθηκε κάτι σε αυτή την τοποθεσία."
+
+#: template-parts/404.php:16
+msgid "The page can&rsquo;t be found."
+msgstr "Η σελίδα δεν βρέθηκε."
+
+#: comments.php:37
+msgctxt "comments title"
+msgid "%s Response"
+msgid_plural "%s Responses"
+msgstr[0] "%s Απάντηση"
+msgstr[1] "%s Απαντήσεις"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://elementor.com/hello-theme/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/hello-theme/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Elementor Team"
+msgstr "Ομάδα του Elementor"
